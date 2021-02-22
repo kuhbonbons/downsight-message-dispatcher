@@ -1,0 +1,16 @@
+{
+  "name": "downsight-message-dispatcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.848.0",
+    "dotenv": "^8.2.0",
+    "serverless-mysql": "^1.5.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
